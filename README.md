@@ -35,6 +35,7 @@ Region-wise and product-wise analysis
 Monthly sales trend tracking
 
 User-friendly dashboard layout
+
 Outcome : 
 The project successfully converts raw sales data into actionable insights, helping users make better business decisions.
 It enhances analytical thinking and demonstrates the ability to build professional dashboards using Excel.
